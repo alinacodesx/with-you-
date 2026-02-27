@@ -14,10 +14,17 @@ This app provides soft emotional support combined with behavioral tracking.
 
 ## 🧩 Core Features (Version 1)
 
-- Adjustable focus sessions
-- Scroll awareness timer
-- Mood check-in system
-- Daily summary reflection
+-Adjustable focus timer (10 / 25 / custom)
+
+-Scroll awareness tracker
+
+-Mood check-in system
+
+-Water intake logging
+
+-Meal check logging
+
+-Daily summary reflection
 
 ## 🎯 Goal
 
